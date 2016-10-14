@@ -33,7 +33,7 @@ angular
 			})
 			.when('/vaibhavi', {
 				templateUrl: 'views/vaibhavi.html',
-				controller: 'vaibhavi',
+				controller: 'VaibhaviCtrl',
 				controllerAs: 'vaibhavi'
 			})
 			.otherwise({
